@@ -1,4 +1,7 @@
+
 # Exemplos e Exercícios do Livro "Java Como Programar"
+
+
 
 Este repositório contém códigos de exemplos e soluções de exercícios do livro "Java Como Programar" de Paul J. Deitel. Os códigos estão organizados por capítulos e seguem a ordem do livro. Você pode usar este repositório como um recurso para estudar Java e praticar os conceitos apresentados no livro.
 
@@ -31,10 +34,12 @@ Contribuições são bem-vindas! Se você encontrar erros nos exemplos ou exerc�
 
 ## Licença
 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Ralf1986/Projeto-Biblioteca-Comunitaria/blob/main/LICENSE)
+
 Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
 
 ## Aviso Legal
 
 Este repositório é apenas para fins educacionais e de estudo. Respeite os direitos autorais do livro "Java Como Programar" de Paul J. Deitel.
 
-
+<img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
