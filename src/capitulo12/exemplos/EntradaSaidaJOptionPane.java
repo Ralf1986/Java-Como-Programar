@@ -1,4 +1,4 @@
-package capitulo10;
+package capitulo12.exemplos;
 
 import javax.swing.*;
 
@@ -7,9 +7,9 @@ public class EntradaSaidaJOptionPane {
 
         // obtém a entrada de usuário a partir dos diálogos de entrada JOptionPane
         String firstNumber =
-                JOptionPane.showInputDialog("Enter first intteger");
+                JOptionPane.showInputDialog("Enter first integer");
         String secondNumber =
-                JOptionPane.showInputDialog("Enter second number");
+                JOptionPane.showInputDialog("Enter second integer");
         // converte String em valores int para utilização em um cálculo
         int number1 = Integer.parseInt(firstNumber);
         int number2 = Integer.parseInt(secondNumber);
